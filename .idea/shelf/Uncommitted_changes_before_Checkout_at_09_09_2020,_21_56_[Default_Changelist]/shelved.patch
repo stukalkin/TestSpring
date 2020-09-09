@@ -1,0 +1,109 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b8156aea-9af0-406b-aacb-44e00ada4392\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/AppConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/ArmorBullet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/Bullet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/Rifle.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/RifleComponentImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/RifleImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/SoldierConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/config/TracerBullet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/xml/ArmorBullet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/xml/Bullet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/xml/Rifle.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/xml/RifleImpl.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/xml/Soldier.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/xml/TracerBullet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/config.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"FxmlFile\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"mavenHome\" value=\"$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"1h8yrvpwNOIpyup8BNifZEtSt07\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/src/main/java/config\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"ExtractSuperBase.RECENT_KEYS\">\n      <recent name=\"config\" />\n    </key>\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"config\" />\n    </key>\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/main/java/config\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.SoldierConfig (1)\">\n    <configuration name=\"Soldier\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"xml.Soldier\" />\n      <module name=\"TestSpring\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"SoldierConfig (1)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"config.SoldierConfig\" />\n      <module name=\"TestSpring\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"config.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"SoldierConfig\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"SoldierConfig\" />\n      <module name=\"TestSpring\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.SoldierConfig (1)\" />\n        <item itemvalue=\"Application.Soldier\" />\n        <item itemvalue=\"Application.SoldierConfig\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"b8156aea-9af0-406b-aacb-44e00ada4392\" name=\"Default Changelist\" comment=\"\" />\n      <created>1599407216951</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1599407216951</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"184\" y=\"112\" width=\"1071\" height=\"700\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1599471562570\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"184\" y=\"112\" width=\"1071\" height=\"700\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1599471562570\" />\n    <state x=\"533\" y=\"163\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1599476397094\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"533\" y=\"163\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900\" timestamp=\"1599476397094\" />\n    <state x=\"490\" y=\"322\" key=\"#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes\" timestamp=\"1599462574232\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"490\" y=\"322\" key=\"#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900\" timestamp=\"1599462574232\" />\n    <state x=\"585\" y=\"354\" key=\"Github.ShareDialog\" timestamp=\"1599407617127\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"585\" y=\"354\" key=\"Github.ShareDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1599407617127\" />\n    <state x=\"533\" y=\"162\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1599407635422\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"533\" y=\"162\" key=\"Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1599407635422\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1599476531023\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1599476531023\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797\" timestamp=\"1599421839610\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.center\" timestamp=\"1599476531022\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1599476531022\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797\" timestamp=\"1599421839606\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.left\" timestamp=\"1599476531021\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1599476531021\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797\" timestamp=\"1599421839604\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.right\" timestamp=\"1599476531022\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1599476531022\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797\" timestamp=\"1599421839608\" />\n    <state x=\"385\" y=\"196\" width=\"670\" height=\"676\" key=\"search.everywhere.popup\" timestamp=\"1599413815600\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"385\" y=\"196\" width=\"670\" height=\"676\" key=\"search.everywhere.popup/0.0.1440.900@0.0.1440.900\" timestamp=\"1599413815600\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a25e1a3c62fc1a9205fe194357717884e611b81a)
++++ .idea/workspace.xml	(date 1599479169271)
+@@ -22,26 +22,8 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b8156aea-9af0-406b-aacb-44e00ada4392" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/ArmorBullet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/Bullet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/Rifle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/RifleComponentImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/RifleImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/SoldierConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/config/TracerBullet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/ArmorBullet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/Bullet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/Rifle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/RifleImpl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/Soldier.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/TracerBullet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
++    <list default="true" id="b8156aea-9af0-406b-aacb-44e00ada4392" name="Default Changelist" comment="added xml and config on my example">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -141,6 +123,14 @@
+       <option name="presentableId" value="Default" />
+       <updated>1599407216951</updated>
+     </task>
++    <task id="LOCAL-00001" summary="added xml and config on my example">
++      <created>1599477028077</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1599477028077</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -154,6 +144,10 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="added xml and config on my example" />
++    <option name="LAST_COMMIT_MESSAGE" value="added xml and config on my example" />
++  </component>
+   <component name="WindowStateProjectService">
+     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599471562570">
+       <screen x="0" y="0" width="1440" height="900" />
+@@ -175,26 +169,30 @@
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+     <state x="533" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1599407635422" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1599476531023">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1599479168781">
++      <screen x="0" y="23" width="1440" height="797" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599476531023" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599421839610" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1599476531022">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599477037574" />
++    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599479168781" />
++    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1599479168778">
++      <screen x="0" y="23" width="1440" height="797" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599476531022" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599421839606" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1599476531021">
+-      <screen x="0" y="0" width="1440" height="900" />
++    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599477037573" />
++    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599479168778" />
++    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1599479168774">
++      <screen x="0" y="23" width="1440" height="797" />
++    </state>
++    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599477037572" />
++    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599479168774" />
++    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1599479168780">
++      <screen x="0" y="23" width="1440" height="797" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599476531021" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599421839604" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1599476531022">
++    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599477037573" />
++    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599479168780" />
++    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1599477035797">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599476531022" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599421839608" />
++    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599477035797" />
+     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599413815600">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
