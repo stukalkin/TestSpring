@@ -23,25 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8156aea-9af0-406b-aacb-44e00ada4392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/ArmorBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/Rifle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/RifleComponentImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/RifleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/SoldierConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/TracerBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/ArmorBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/Rifle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/RifleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xml/TracerBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,41 +80,10 @@
       <recent name="$PROJECT_DIR$/src/main/java/config" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SoldierConfig (1)">
-    <configuration name="Soldier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xml.Soldier" />
-      <module name="TestSpring" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoldierConfig (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="config.SoldierConfig" />
-      <module name="TestSpring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoldierConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SoldierConfig" />
-      <module name="TestSpring" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SoldierConfig (1)" />
-        <item itemvalue="Application.Soldier" />
-        <item itemvalue="Application.SoldierConfig" />
-      </list>
-    </recent_temporary>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="welcome" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -141,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1599407216951</updated>
     </task>
+    <task id="LOCAL-00001" summary="welcome">
+      <created>1599674574829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599674574829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,12 +114,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="welcome" />
+    <option name="LAST_COMMIT_MESSAGE" value="welcome" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599471562570">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="184" y="122" width="1071" height="668" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599674672992">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599471562570" />
+    <state x="184" y="122" width="1071" height="668" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1599674672992" />
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1599476397094">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -195,6 +162,22 @@
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599476531022" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599421839608" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1599674699627">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599674699627" />
+    <state x="518" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599674607734">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="518" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1599674607734" />
+    <state x="354" y="113" key="new project wizard" timestamp="1599674944240">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="113" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1599674944240" />
+    <state x="385" y="191" key="run.anything.popup" timestamp="1599674564440">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="191" key="run.anything.popup/0.23.1440.797@0.23.1440.797" timestamp="1599674564440" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599413815600">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
